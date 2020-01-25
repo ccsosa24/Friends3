@@ -1,0 +1,16 @@
+.myjumbo {
+    background: transparent;
+    text-align: center;
+}
+
+h1{
+    color: whitesmoke;
+    font-size: 60px;
+    font: center;
+    /* font: url(./AllFonts/GabrielWeiss); */
+}
+
+p {
+font-size: 30px;
+color: whitesmoke;
+}
